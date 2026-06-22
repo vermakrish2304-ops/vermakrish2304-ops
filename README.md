@@ -95,6 +95,4 @@ VLSI design flow using industry-standard tools.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vermakrish2304-ops&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
+
