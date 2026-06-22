@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Krish Verma 👋</h1>
 
-<p align="center">
-  <em>Designing the chips that run the world</em>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krish-verma-45432a368/">
