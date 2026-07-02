@@ -74,8 +74,8 @@ VLSI design flow using industry-standard tools.
 
 > Verilog practice platform used by VLSI engineers worldwide
 
-- ✅ **160+ problems solved**
-- 🏅 **Current Rank: 4033**
+- ✅ **170+ problems solved**
+- 🏅 **Current Rank: 3581**
 - Topics covered: Combinational logic, Sequential circuits,
   FSMs, Shift registers, Counters, Building larger circuits
 
